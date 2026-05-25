@@ -19,3 +19,7 @@
    ```bash
    npm start
    ```
+
+## API 500 Error
+
+If you encounter an API 500 Error, it typically indicates a server-side issue. Check the server logs for more details and ensure that the API is functioning correctly. If the issue persists, consider reaching out for support or consulting the documentation for troubleshooting steps.
