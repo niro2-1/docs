@@ -20,6 +20,17 @@
    npm start
    ```
 
+## Deployment Instructions
+
+1. Ensure you have the necessary environment variables set up.
+2. Build the application using:
+   ```bash
+   npm run build
+   ```
+3. Deploy the build folder to your web server.
+4. Ensure the server is configured to serve the application correctly.
+5. Monitor the deployment logs for any issues.
+
 ## API 500 Error
 
 If you encounter an API 500 Error, it typically indicates a server-side issue. Check the server logs for more details and ensure that the API is functioning correctly. If the issue persists, consider reaching out for support or consulting the documentation for troubleshooting steps.
